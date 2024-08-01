@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamg-cognavi
 - 👀 I’m interested in coding, maths, and puzzles
-- 🌱 I’m currently learning to build products from scratch
+- 🌱 I’m currently learning to manage and maintain softwares
 - 💞️ I’m looking to collaborate on AI-related stuffs
 - 📫 How to reach me : email me at shubham.g@cognavi.com or 22shubh22@gmail.com
 
